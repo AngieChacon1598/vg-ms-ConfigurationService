@@ -171,14 +171,14 @@ docker run -d -p 5004:5004 \
 
 The service provides REST APIs for managing:
 
-**Tenant Configuration** (`/api/configuracion-tenant`) - Multi-tenant settings
-**System Configuration** (`/api/system-configurations`) - System-wide settings
-**Areas** (`/api/areas`) - Area management (RESPONSIBLE: Jossue Torres)
-**Suppliers** (`/api/suppliers`) - Supplier management (RESPONSIBLE: Angie Chacon)
-**Document Types** (`/api/document-types`) - Document type definitions (RESPONSIBLE: Angie Chacon)
-**Physical Locations** (`/api/physical-locations`) - Location management (RESPONSIBLE: Maylin Jauregui)
-**Positions** (`/api/positions`) - Position management (RESPONSIBLE: Maylin Jauregui)
-**Category Assets** (`/api/category-assets`) - Asset category management (RESPONSIBLE: Juan Hilares)
+- **Tenant Configuration** (`/api/configuracion-tenant`) - Multi-tenant settings
+- **System Configuration** (`/api/system-configurations`) - System-wide settings
+- **Areas** (`/api/areas`) - Area management (RESPONSIBLE: Jossue Torres)
+- **Suppliers** (`/api/suppliers`) - Supplier management (RESPONSIBLE: Angie Chacon)
+- **Document Types** (`/api/document-types`) - Document type definitions (RESPONSIBLE: Angie Chacon)
+- **Physical Locations** (`/api/physical-locations`) - Location management (RESPONSIBLE: Maylin Jauregui)
+- **Positions** (`/api/positions`) - Position management (RESPONSIBLE: Maylin Jauregui)
+- **Category Assets** (`/api/category-assets`) - Asset category management (RESPONSIBLE: Juan Hilares)
 
 
 🐳 **Docker Hub**
